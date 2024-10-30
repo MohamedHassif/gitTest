@@ -1,0 +1,122 @@
+export const classRoutine= [
+	{
+		id: "RT167648",
+		class: "CS-IT",
+		section: "A",
+		teacher: "Erickson",
+		subject: "Python",
+		day: "Monday",
+		startTime: "09:30 AM",
+		endTime: "10:45 AM",
+		classRoom: "101",
+		key:1
+	},
+	{
+		id: "RT167647",
+		class: "CS-CS",
+		section: "B",
+		teacher: "Mori",
+		subject: "Computer Networks",
+		day: "Tuesday",
+		startTime: "10:45 AM",
+		endTime: "12:00 PM",
+		classRoom: "102",
+		key:2
+	},
+	{
+		id: "RT167646",
+		class: "CS-CS",
+		section: "A",
+		teacher: "Joseph",
+		subject: "OOPS in C++",
+		day: "Wednesday",
+		startTime: "12:00 PM",
+		endTime: "01:15 PM",
+		classRoom: "103",
+		key:3
+	},
+	{
+		id: "RT167645",
+		class: "CS-CS",
+		section: "B",
+		teacher: "James",
+		subject: "Cyber Security",
+		day: "Thursday",
+		startTime: "01:15 PM",
+		endTime: "02:30 PM",
+		classRoom: "104",
+		key:4
+	},
+	{
+		id: "RT167644",
+		class: "CS-CS",
+		section: "C",
+		teacher: "Hema",
+		subject: "Network Layers",
+		day: "Friday",
+		startTime: "02:30 PM",
+		endTime: "03:45 PM",
+		classRoom: "105",
+		key:5
+	},
+	{
+		id: "RT167643",
+		class: "Cyber",
+		section: "A",
+		teacher: "Teresa",
+		subject: "Statistics",
+		day: "Saturday",
+		startTime: "03:45 PM",
+		endTime: "05:00 PM",
+		classRoom: "106",
+		key:6
+	},
+	{
+		id: "RT167642",
+		class: "CS-IT",
+		section: "B",
+		teacher: "James",
+		subject: "Information Technology",
+		day: "Monday",
+		startTime: "09:30 AM",
+		endTime: "10:45 AM",
+		classRoom: "107",
+		key:7
+	},
+	{
+		id: "RT167641",
+		class: "MBA",
+		section: "A",
+		teacher: "Hendrita",
+		subject: "English",
+		day: "Tuesday",
+		startTime: "10:45 AM",
+		endTime: "12:00 PM",
+		classRoom: "108",
+		key:8
+	},
+	{
+		id: "RT167640",
+		class: "MBA",
+		section: "B",
+		teacher: "Morgan",
+		subject: "Finance",
+		day: "Wednesday",
+		startTime: "12:00 PM",
+		endTime: "01:15 PM",
+		classRoom: "109",
+		key:9
+	},
+	{
+		id: "RT167639",
+		class: "CS-IT",
+		section: "A",
+		teacher: "Ramsey",
+		subject: "Mathematics",
+		day: "Thursday",
+		startTime: "01:15 PM",
+		endTime: "02:30 PM",
+		classRoom: "110",
+		key:10
+	}
+];
